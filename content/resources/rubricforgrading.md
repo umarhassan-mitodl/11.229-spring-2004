@@ -4,6 +4,8 @@ description: Grading rubric for writing assignments.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/459add375a2c2e0f9c6b2ced2570038b_Rubricforgrading.pdf
 file_size: 12905
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

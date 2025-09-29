@@ -4,6 +4,8 @@ description: Guidelines for evaluating and grading student project presentations
 file: /courses/11-229-advanced-writing-seminar-spring-2004/5ed5fae7cfe881464fba9f73c3a6600a_Oral_Pres_Eval_Form.pdf
 file_size: 23324
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

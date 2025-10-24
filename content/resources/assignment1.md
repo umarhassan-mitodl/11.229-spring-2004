@@ -4,8 +4,6 @@ description: Instructions for writing assignment.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/3829fab6747e8c7a1e547e24d8096b53_assignment1.pdf
 file_size: 17765
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

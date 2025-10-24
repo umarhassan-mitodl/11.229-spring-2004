@@ -5,8 +5,6 @@ description: This handout contains tips and suggestions for writing along with b
 file: /courses/11-229-advanced-writing-seminar-spring-2004/b90d826776edaff9f0cbde3df3b2a994_Lecture_1a.pdf
 file_size: 19147
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Instructions for peer critique and writing assignment.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/70495b973e72531aae9f1f30d484bbbf_assignment12.pdf
 file_size: 20205
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

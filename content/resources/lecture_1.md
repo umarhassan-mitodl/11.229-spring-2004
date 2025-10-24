@@ -4,8 +4,6 @@ description: Outline of Lecture 1.
 file: /courses/11-229-advanced-writing-seminar-spring-2004/5dc9fc3a4d9bbba30719e7b562d8d2f5_Lecture_1.pdf
 file_size: 19178
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
